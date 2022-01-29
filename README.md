@@ -20,18 +20,18 @@
 
 ## Introduction
 
-Monster Clicker is a classic and simple Clicker Game.
+Monster Clicker is a classic and simple Clicker Game.<br>
+Your main goal is to finish the 4 stages quickly as possible. <br>
+Your finish time will be recorded on the Leaderboard. Invite and try to beat your friends.<br>
 
-Your main goal is to finish the 4 stage quick as possible. Your finish time will be recorded to the Leaderboard. Invite and try to beat your friends.
-
-Game consist of 4 stage each with 10 monster <br>
+The game consists of 4 stages each with 10 monster.<br>
 There are 4 upgrades that you can buy to finish the game quicker:<br>
 DPC -- Damage Per Click<br>
 DPS -- Damage Per Second<br>
 Extra Click -- Click Count<br>
 Extra Money -- %10 more money per monster<br>
 
-You can also watch an Rewarded before the game to get a bonus upgrade.
+You can also watch a Rewarded before the game to get a bonus upgrade.
 
 ## Screenshots
 <table align="center">
