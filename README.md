@@ -34,7 +34,7 @@ Extra Money -- %10 more money per monster<br>
 You can also watch an Rewarded before the game to get a bonus upgrade.
 
 ## Screenshots
-<table>
+<table align="center">
 <tr>
 <td>
 <img src="https://user-images.githubusercontent.com/41696219/151676197-5aa55d38-51d3-4956-bdb0-66eb9430f658.jpg" width="400">
@@ -42,21 +42,23 @@ You can also watch an Rewarded before the game to get a bonus upgrade.
 </td>
 
 <td>
-<img src="https://user-images.githubusercontent.com/41696219/151675901-04e6d7e1-a2a5-428b-aa84-c145f8d8b65d.png" width="400">
+<img src="https://user-images.githubusercontent.com/41696219/151675906-ae48ef66-b5ab-4f65-87bb-963792cca049.png" width="400">
 
 
 </td>
-
+</tr>
 <td>
-<img src="https://user-images.githubusercontent.com/41696219/151675906-ae48ef66-b5ab-4f65-87bb-963792cca049.png" width="400">
+<img src="https://user-images.githubusercontent.com/41696219/151675901-04e6d7e1-a2a5-428b-aa84-c145f8d8b65d.png" width="400">
 </td>
  <td>
 <img src="https://user-images.githubusercontent.com/41696219/151675845-5b4d6217-792b-40ae-959f-0c3922dd710f.png" width="400">
  </td>
+  </tr>
 </tr>
 </tr>
 </table>
 </div>
+
 
 
 ## Used Assets
